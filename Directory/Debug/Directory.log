@@ -1,0 +1,6 @@
+﻿  Directory.cpp
+C:\ШАГ\Programming\HomeWork\Directory\Directory\Directory.cpp(26): warning C4715: 'Directory::Search_name': not all control paths return a value
+C:\ШАГ\Programming\HomeWork\Directory\Directory\Directory.cpp(58): warning C4715: 'Directory::Search_phone': not all control paths return a value
+C:\ШАГ\Programming\HomeWork\Directory\Directory\Directory.cpp(42): warning C4715: 'Directory::Search_owner': not all control paths return a value
+C:\ШАГ\Programming\HomeWork\Directory\Directory\Directory.cpp(74): warning C4715: 'Directory::Search_occupation': not all control paths return a value
+  Directory.vcxproj -> C:\ШАГ\Programming\HomeWork\Directory\Debug\Directory.exe
